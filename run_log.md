@@ -1,0 +1,1 @@
+- 2026-10-15T22:37:29Z | answered: rounds 1-8 | practice self-check (vs. practice_keys.csv, scoring only): 25/25 on each of rounds 1-8 | not confident: none flagged (all 200 answers within 0.5% of an option; no unmatched templates) | still pending: rounds 9-48 (practice), no graded rounds released yet
